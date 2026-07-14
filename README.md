@@ -2,9 +2,9 @@
   <img src="images/profile_banner.png" alt="Profile Banner" width="100%">
 </p>
 
-# Hi, I'm Hareem Ahmad 👋
+# Hi, I'm Hareem Ahmad
 
-### Molecular Biology | Biochemistry | Bioinformatics | Scientific Software Development
+### Molecular Biology • Biochemistry • Bioinformatics • Computational Biology
 
 I am an **M.Sc. graduate in Molecular Biology & Biochemistry** with a growing focus on **bioinformatics and computational biology**.
 
@@ -16,15 +16,15 @@ I am currently seeking opportunities to contribute to **research groups, PhD pro
 
 # 🔬 Research Interests
 
-🧬 Bioinformatics
-🧬 Computational Biology
-🧬 Molecular Biology
-🧬 Biochemistry
-🧬 Genomics
-🧬 Sequence Analysis
-🧬 CRISPR Technologies
-🧬 Scientific Programming
-🧬 AI Applications in Life Sciences
+- Bioinformatics
+- Computational Biology
+- Molecular Biology
+- Biochemistry
+- Genomics
+- Sequence Analysis
+- CRISPR Technologies
+- Scientific Programming
+- AI Applications in Life Sciences
 
 ---
 
@@ -60,7 +60,7 @@ I am currently seeking opportunities to contribute to **research groups, PhD pro
 
 ---
 
-# 🧬 Current Projects
+# 🧬 Research Software
 
 ## Sequence Alignment Toolkit
 
