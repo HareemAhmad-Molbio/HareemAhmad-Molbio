@@ -60,7 +60,26 @@ I am currently seeking opportunities to contribute to **research groups, PhD pro
 
 ---
 
-# 🧬 Research Software
+# 🧬 Featured Projects
+
+## 🧪 Protein Sequence Toolkit
+
+A modular Python toolkit for protein sequence analysis designed for bioinformatics education and research. The toolkit supports protein sequence validation, FASTA file parsing, molecular weight calculation, amino acid composition analysis, residue class profiling, and scientific visualizations through a clean, well-documented architecture.
+
+**Highlights:**
+
+- Protein sequence validation
+- FASTA file support
+- Molecular weight calculation
+- Amino acid composition analysis
+- Residue class distribution analysis
+- Scientific visualizations and analysis dashboard
+- Modular Python architecture
+- Automated testing with Pytest
+
+🔗 **Repository**
+
+https://github.com/HareemAhmad-Molbio/Protein-Sequence-Toolkit
 
 ## Sequence Alignment Toolkit
 
@@ -97,15 +116,12 @@ https://github.com/HareemAhmad-Molbio/FASTA-Sequence-Analyzer
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-I am actively expanding my knowledge in:
-
-- Smith–Waterman Local Alignment
-- Protein Sequence Analysis
+- Primer Design Algorithms
+- CRISPR Guide RNA Design
 - Structural Bioinformatics
-- Variant Analysis
-- Scientific Software Engineering
+- Protein Structure Analysis
 - Machine Learning for Biological Data
 
 ---
